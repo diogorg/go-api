@@ -20,7 +20,7 @@
 - run `docker-compose up`
 - run `go run main.go`
 
-## ENDPOINTS
+## Endpoints
 - FindAll Users GET `localhost:8000`
 - Store User POST `localhost:8000`
 - FindBYId User GET `localhost:8000/{id}`
